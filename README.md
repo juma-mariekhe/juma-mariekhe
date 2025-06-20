@@ -21,7 +21,7 @@ Passionate about impact-focused analytics, scalable solutions, and learning in p
 
 Open to collaborate on projects focused on AI, data privacy, or ethical data use (Ethical AI). 
 
-🌱 Currently Learning: ML in Production, LangChain
+🌱 Currently Learning: ML in Production, LangChain.
 
 ---
 
