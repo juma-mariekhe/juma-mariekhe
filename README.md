@@ -68,14 +68,14 @@ Open to collaborate on projects focused on AI, data privacy, or ethical data use
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 **GitHub Achievements**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=juma-mariekhe&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 **Activity Graph**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juma-mariekhe&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
@@ -84,4 +84,5 @@ Open to collaborate on projects focused on AI, data privacy, or ethical data use
 
 ---
 
-📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/juma-mariekhe/) 
+### 📬 **How To Reach Me**
+[LinkedIn](https://www.linkedin.com/in/juma-mariekhe/) 
