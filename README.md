@@ -84,4 +84,4 @@ Open to collaborate on projects focused on AI, data privacy, or ethical data use
 
 ---
 
-📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/juma-mariekhe) 
+📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/juma-mariekhe/) 
