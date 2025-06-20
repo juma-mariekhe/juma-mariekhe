@@ -53,9 +53,12 @@ Open to collaborate on projects focused on AI, data privacy, or ethical data use
 
 ---
 
-### 📌 **GitHub Summary**
+## 📌 **Pinned Projects**
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juma-mariekhe&repo=python)](https://github.com/juma-mariekhe/python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juma-mariekhe&repo=jobs_board)](https://github.com/juma-mariekhe/jobs_board)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juma-mariekhe&repo=GitClass)](https://github.com/juma-mariekhe/GitClass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juma-mariekhe&repo=devops03-git-practice)](https://github.com/juma-mariekhe/devops03-git-practice)
 
 ---
 
@@ -81,10 +84,4 @@ Open to collaborate on projects focused on AI, data privacy, or ethical data use
 
 ---
 
-📬 Reach Me: [LinkedIn](https://www.linkedin.com/in/juma-mariekhe) 
-
---- 
-
-⭐️ From [juma-mariekhe](https://github.com/juma-mariekhe)
-
-
+📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/juma-mariekhe) 
