@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Juma Mariekhe
+## 👋 Hi, I'm Juma Mariekhe
 
 🚀 Data Analyst | 📊 Python & SQL Enthusiast | ⚙️ Automation Advocate 
 
