@@ -53,7 +53,7 @@ Open to collaborate on projects focused on AI, data privacy, or ethical data use
 
 ---
 
-## 📌 **Pinned Projects**
+## 📌 **Featured  Projects**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juma-mariekhe&repo=python)](https://github.com/juma-mariekhe/python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juma-mariekhe&repo=jobs_board)](https://github.com/juma-mariekhe/jobs_board)
