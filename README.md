@@ -1,10 +1,10 @@
 ## Hi there!👋 I'm Juma Mariekhe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Python+and+SQL+Enthusiast;Automation+Advocate;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Python+and+SQL+Enthusiast;Automation+Advocate;Always+Trying+To+Learn+New+Things;Based+in+Nairobi,+Kenya!" alt="Typing SVG" />
 </div>
 
-### 🚀 Data Analyst | 📊 Python & SQL Enthusiast | ⚙️ Automation Advocate 
+### 🚀 Data Analyst | 📊 Python and SQL Enthusiast | ⚙️ Automation Advocate 
 
 ![](https://komarev.com/ghpvc/?username=juma-mariekhe&color=blue) 
 ![](https://img.shields.io/github/followers/juma-mariekhe?label=Follow&style=social)
